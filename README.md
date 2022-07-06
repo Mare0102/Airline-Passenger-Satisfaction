@@ -1,4 +1,4 @@
-# Airline-Passenger-Satisfaction
+# Airline Passenger Satisfaction
 
 <br />
 
@@ -183,3 +183,5 @@ Model paling baik digunakan dengan beberapa batas nilai feature, seperti:
 - `Age`: 7-85 tahun
 - `Flight Distance`: 31-4.983 miles
 - `Departure/Arrival Delay`: 38-1.592 minutes
+
+Tableau Link : https://public.tableau.com/views/AirlinePassengerSatisfaction_16571085720750/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
